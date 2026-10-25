@@ -1,5 +1,5 @@
 # Blender-Bfres-Engine
-A tool to create BFRES files with custom game shaders. 
+A tool to create BFRES files with custom game shaders. (release in a few days, preparing guide/polishing code)
 
 <img width="1482" height="711" alt="image" src="https://github.com/user-attachments/assets/b3007041-5229-4926-a875-80315beda35f" />
 
